@@ -1,0 +1,1 @@
+default_app_config = 'send_postcard.apps.SendPostcardConfig'
